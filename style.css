@@ -250,3 +250,24 @@
     color: #1AAB7B;
     border: 1.5px solid #1AAB7B;
  }
+.bottom {
+  background: #000;
+  color: #fff;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1300px;
+  height: 80px;
+  margin: 0 auto;
+}
+
+.nom {
+  font-size: 20px;
+}
+
+.ico img {
+  width: 20px;
+  height: 20px;
+  margin-left: 16px;
+}
